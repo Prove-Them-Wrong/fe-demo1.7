@@ -1,0 +1,16 @@
+{
+  "categories": [
+    { "id": "tops", "name": "Tops" },
+    { "id": "jeans", "name": "Jeans" },
+    { "id": "pants", "name": "Pants" },
+    { "id": "jackets", "name": "Jackets" },
+    { "id": "coats", "name": "Coats" },
+    { "id": "blazers", "name": "Blazers" },
+    { "id": "hoodies", "name": "Hoodies" },
+    { "id": "dresses", "name": "Dresses" },
+    { "id": "skirts", "name": "Skirts" },
+    { "id": "activewear", "name": "Activewear" },
+    { "id": "shoes", "name": "Shoes" },
+    { "id": "accessories", "name": "Accessories" }
+  ]
+}

@@ -1,0 +1,76 @@
+.srp-filters {
+  display: none;
+  position: sticky;
+  top: 16px;
+  height: fit-content;
+  flex-direction: column;
+  gap: 25px;
+  padding: 10px;
+}
+
+.filter-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.srp-filters.open {
+  display: flex;
+}
+
+.price-range {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.price-range input {
+  width: 100%;
+}
+
+.size-btn {
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #333;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.size-btn.active {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+.size-btn:hover {
+  border-color: #111;
+}
+
+.color-swatches {
+  display: flex;
+  gap: 0.5rem;
+  background-color: black;
+  padding: 5px;
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+
+.color-swatch {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  opacity: 1;
+  transition:
+    opacity 0.3s ease,
+    transform 0.2s ease;
+  cursor: pointer;
+}
+
+.color-swatch.active {
+  opacity: 0.5;
+}
+
+.color-swatch:active {
+  transform: scale(0.95);
+}

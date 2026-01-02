@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Black Leather Jacket",
+      "description": "Timeless black leather jacket with zip closure and tailored fit.",
+      "brandId": "urbanedge",
+      "categoryId": "jackets",
+      "gender": "men",
+      "price": 249.99,
+      "salePrice": 199.99,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 182,
+      "keywords": ["leather jacket", "tailored jacket", "men outerwear"],
+      "tags": ["leather", "tailored"],
+      "images": [
+        "https://www.thejacketmaker.com/cdn/shop/files/Ionic_Black_Leather_Jacket_With_Minimalist_Design_made_of_100_Real_Leather_in_matte_black_finish_1_821aa6f2-e2d8-4b7b-9144-c9311b10ed8a_900x.jpg?v=1760634233"
+      ],
+      "variants": [
+        { "sku": "UE-LJ-BLK-S", "size": "S", "color": "Black", "inventory": 8 },
+        { "sku": "UE-LJ-BLK-M", "size": "M", "color": "Black", "inventory": 14 },
+        { "sku": "UE-LJ-BLK-L", "size": "L", "color": "Black", "inventory": 12 },
+        { "sku": "UE-LJ-BLK-XL", "size": "XL", "color": "Black", "inventory": 8 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tailored Navy Blazer",
+      "description": "Sharp tailored blazer suitable for work or evenings.",
+      "brandId": "modernsuit",
+      "categoryId": "blazers",
+      "gender": "men",
+      "price": 179.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 88,
+      "keywords": ["navy blazer", "tailored blazer", "formal jacket"],
+      "tags": ["tailoring", "formal"],
+      "images": [
+        "https://gentux.imgix.net/1642625725_GenerationTuxOxfordNavyBlazerThreeQuatersShot.jpg?fm=jpg&fit=crop&w=775&ar=5:7&auto=format"
+      ],
+      "variants": [
+        { "sku": "MS-BL-NVY-S", "size": "S", "color": "Navy", "inventory": 6 },
+        { "sku": "MS-BL-NVY-M", "size": "M", "color": "Navy", "inventory": 10 },
+        { "sku": "MS-BL-NVY-L", "size": "L", "color": "Navy", "inventory": 12 },
+        { "sku": "MS-BL-NVY-XL", "size": "XL", "color": "Navy", "inventory": 6 }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Striped Button-Down Shirt",
+      "description": "Crisp cotton button-down shirt with subtle vertical stripes.",
+      "brandId": "officeline",
+      "categoryId": "shirts",
+      "gender": "men",
+      "price": 69.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviewCount": 74,
+      "keywords": ["button-down shirt", "tailored shirt", "dress shirt"],
+      "tags": ["tailored", "cotton"],
+      "images": [
+        "https://assets.vans.com/images/t_img/c_fill,g_center,f_auto,h_573,e_unsharp_mask:100,w_458/dpr_2.0/v1751994796/VN000M15K9T-ALT1/Lawson-Stripe-Button-Up-Shirt.png"
+      ],
+      "variants": [
+        { "sku": "OL-SH-BLU-S", "size": "S", "color": "Blue", "inventory": 14 },
+        { "sku": "OL-SH-BLU-M", "size": "M", "color": "Blue", "inventory": 22 },
+        { "sku": "OL-SH-WHT-M", "size": "M", "color": "White", "inventory": 18 },
+        { "sku": "OL-SH-WHT-L", "size": "L", "color": "White", "inventory": 16 }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tailored Chinos",
+      "description": "Refined chinos with a clean, modern tailored fit.",
+      "brandId": "everyday",
+      "categoryId": "trousers",
+      "gender": "men",
+      "price": 89.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 61,
+      "keywords": ["tailored chinos", "dress trousers"],
+      "tags": ["tailored", "workwear"],
+      "images": [
+        "https://www.mirpuri.com/cdn/shop/products/TRS_DRESS_Sandy_1.jpg?v=1571585487&width=1200"
+      ],
+      "variants": [
+        { "sku": "ED-CH-KHK-32", "size": "32", "color": "Khaki", "inventory": 20 },
+        { "sku": "ED-CH-KHK-34", "size": "34", "color": "Khaki", "inventory": 25 },
+        { "sku": "ED-CH-NVY-32", "size": "32", "color": "Navy", "inventory": 18 },
+        { "sku": "ED-CH-NVY-34", "size": "34", "color": "Navy", "inventory": 22 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Brown Leather Chelsea Boots",
+      "description": "Classic Chelsea boots crafted from genuine leather.",
+      "brandId": "heritage",
+      "categoryId": "shoes",
+      "gender": "men",
+      "price": 199.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 92,
+      "keywords": ["chelsea boots", "dress boots", "leather boots"],
+      "tags": ["leather", "formal"],
+      "images": [
+        "https://3dmlifestyle.com/cdn/shop/products/20191017_3dm_0001rt_3240x2160_9afb6686-e28c-417b-9ab2-bf2d9cc34a6c_900x.jpg?v=1600181575"
+      ],
+      "variants": [
+        { "sku": "HT-BT-BRN-9", "size": "9", "color": "Brown", "inventory": 10 },
+        { "sku": "HT-BT-BRN-10", "size": "10", "color": "Brown", "inventory": 14 },
+        { "sku": "HT-BT-BRN-11", "size": "11", "color": "Brown", "inventory": 12 }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Recycled unisex basketball jersey",
+      "description": "Refined leather loafers suitable for tailored outfits.",
+      "brandId": "easystep",
+      "categoryId": "shoes",
+      "gender": "men",
+      "price": 99.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviewCount": 46,
+      "keywords": ["leather loafers", "dress loafers"],
+      "tags": ["leather", "tailored"],
+      "images": [
+        "https://static.wixstatic.com/media/0a695f_fc7b8490cc254390bab6ebbc99e4313b~mv2.jpg/v1/fill/w_980,h_619,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0a695f_fc7b8490cc254390bab6ebbc99e4313b~mv2.jpg"
+      ],
+      "variants": [
+        { "sku": "ES-LF-TAN-9", "size": "9", "color": "Tan", "inventory": 12 },
+        { "sku": "ES-LF-TAN-10", "size": "10", "color": "Tan", "inventory": 14 },
+        { "sku": "ES-LF-TAN-11", "size": "11", "color": "Tan", "inventory": 10 }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fisherman beanie - MICHAEL IJI logo",
+      "description": "Refined leather loafers suitable for tailored outfits.",
+      "brandId": "easystep",
+      "categoryId": "shoes",
+      "gender": "men",
+      "price": 99.99,
+      "salePrice": null,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviewCount": 46,
+      "keywords": ["leather loafers", "dress loafers"],
+      "tags": ["leather", "tailored"],
+      "images": [
+        "https://static.wixstatic.com/media/0a695f_54ccb77b7826477f8e478855e9a7ec10~mv2.jpg/v1/fill/w_980,h_619,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0a695f_54ccb77b7826477f8e478855e9a7ec10~mv2.jpg"
+      ],
+      "variants": [
+        { "sku": "ES-LF-TAN-9", "size": "9", "color": "Tan", "inventory": 12 },
+        { "sku": "ES-LF-TAN-10", "size": "10", "color": "Tan", "inventory": 14 },
+        { "sku": "ES-LF-TAN-11", "size": "11", "color": "Tan", "inventory": 10 }
+      ]
+    }
+  ]
+}

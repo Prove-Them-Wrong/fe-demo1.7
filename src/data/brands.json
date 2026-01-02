@@ -1,0 +1,12 @@
+{
+  "brands": [
+    { "id": "urbanedge", "name": "UrbanEdge" },
+    { "id": "denimco", "name": "DenimCo" },
+    { "id": "essentialwear", "name": "EssentialWear" },
+    { "id": "streetform", "name": "StreetForm" },
+    { "id": "modernsuit", "name": "ModernSuit" },
+    { "id": "sunmuse", "name": "SunMuse" },
+    { "id": "flexfit", "name": "FlexFit" },
+    { "id": "stride", "name": "Stride" }
+  ]
+}
